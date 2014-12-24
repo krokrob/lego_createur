@@ -1,0 +1,77 @@
+.vertical_spacer {
+  padding-top:50px;  
+}
+
+.wrapper {
+  background-image: url('../images/Voiture_TieTerMax.png');
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:650px;
+  padding-top:1em;
+  font-family:'Bree Serif';
+  color:grey;
+  margin:100px 50px 0px 50px;
+  text-align:center;
+}
+
+.wrapper h1 {
+  font-size:75px;
+}
+
+body {
+  background-image: url('../images/briques.jpg');
+}
+a {
+  color:black;
+}
+a:hover {
+  color:grey;
+  text-decoration:none;
+}
+
+.categories {
+  margin:50px 50px 0px 50px; 
+}
+
+.col-sm-4 {
+  color:black;
+  border-radius:20%;
+  text-align:center;
+  height:300px;
+  width:350px;
+  margin-left:10px;
+}
+
+#roul {
+  background-color:yellow;
+}
+
+#vol {
+  background-color:red;
+}
+
+#march {
+  background-color:orange;
+}
+
+#roul_head,
+#vol_head,
+#march_head {
+  color:grey;
+  text-align:center;
+  font-size:100px;
+  padding-top:0.25em;
+  padding-bottom:0.25em;
+}
+
+#roul_head {
+  background-color:yellow;
+}
+
+#vol_head {
+  background-color:red;
+}
+
+#march_head {
+  background-color:orange;
+}
