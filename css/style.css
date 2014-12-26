@@ -75,3 +75,8 @@ a:hover {
 #march_head {
   background-color:orange;
 }
+
+.catlink:hover {
+  border: solid black 2px;
+  border-radius: 10%;
+  };
